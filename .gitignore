@@ -19,6 +19,9 @@ data_processed/
 .env
 config.py
 
+# Temporary/Exploration Scripts
+data_exploration.py
+
 # IDE
 .vscode/
 .idea/
