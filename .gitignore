@@ -1,0 +1,34 @@
+# Virtual Environment
+.warframebotenv/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# Data files
+data_raw/
+data_processed/
+
+# Sensitive Config
+.env
+config.py
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Neo4j
+.neo4j/
